@@ -1,6 +1,8 @@
 # Introduction 
 RPC project to create a stub and a boot from a compiler and the interface containing the functions to be called. 
 
+Usage of reflection to allow for different types of parameters.
+
 # Usage
 
 Create both files using the following command : 
